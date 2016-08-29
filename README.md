@@ -11,3 +11,6 @@ Some different text for docs.
 ### Image
 ### File
 ### Disk Management
+
+## License
+MIT
